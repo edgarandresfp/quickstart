@@ -44,10 +44,10 @@ go/quickstart
 **/.DS_Store
 
 # docker-compose
-docker-compose.local*.yml
+# docker-compose.local*.yml
 
 *.iml
-.env
+#.env
 .idea
 
 #vscode
